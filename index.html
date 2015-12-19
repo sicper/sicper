@@ -3,19 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>SICPer by sicper</title>
+    <title>SICP 读书会</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
     <meta name="viewport" content="width=device-width">
+    <meta name="description" content="SICP 读书会，探寻编程真谛" /> 
+
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="javascripts/html5.js"></script>
     <![endif]-->
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>SICPer</h1>
+        <h1>SICP 读书会</h1>
         <p>分享思想，探索未知</p>
 
 
@@ -73,12 +75,21 @@
 <ol>
 <li>2015/12/18。本网站上线</li>
 </ol>
+    <div id="disqus_thread"></div>
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
     
+    <script src="javascripts/scale.fix.js"></script>
+    <script type="text/javascript">
+        var disqus_shortname = 'sicper';
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
   </body>
 </html>
