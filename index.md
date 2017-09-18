@@ -1,36 +1,16 @@
-### SICPer
+## From SICP to Lisp
 
-我们因[《SICP》](http://book.douban.com/subject/1148282/)相遇，怀揣着探索编程本源的心我们团结在一起，共同踏上一段奇妙之旅。
+[《SICP》](http://book.douban.com/subject/1148282/) 对我影响非常大，它不仅仅加深了我对计算机的理解，更是把我引入 Lisp 的大门，现在的工作也是以 Lisp（Clojure）为主，业余时间，我致力于分享传播 Lisp，让更多的朋友感受到这门古老而又神秘语言的强大。
 
-### 定位
+### 相关链接
 
-完成 SICP 所有章节与习题。扩展相关概念，像 [CPS](https://en.wikipedia.org/wiki/Continuation_passing_style)、[λ演算](https://en.wikipedia.org/wiki/Lambda)、[Y 算子](https://en.wikipedia.org/wiki/Fixed-point_combinator#Fixed_point_combinators_in_lambda_calculus)等。分享、交流，真正成为一名[增长黑客](http://book.douban.com/subject/26541801/)。
+- [Clojure Emacs 开发环境搭建](https://github.com/sicper/emacs-for-clojure)
+- [From SICP to Lisp](https://v.qq.com/x/page/u0537t2wpd1.html)，主要介绍 SICP 阅读心得
 
-### 计划
+#### Clojure 直播课程
 
-每周二次分享。时间为周二与周四。
+- [第一讲，Clojure 初相识](https://segmentfault.com/l/1500000010754506)
+- [第二讲，Clojure 数据类型介绍](https://segmentfault.com/l/1500000010818857)
+- [第三讲：再谈 lazy 与 persistent](https://segmentfault.com/l/1500000010989773)
 
-### 形式
-
-1. 分享时有个主讲人，他会提前规定分享的内容，做相应章节的习题，对有趣、有难度的题目提前在群里告知。
-2. 每次分享**必须**有记录，便于后面查漏补缺，主讲人负责。
-3. 对于组内觉得好的分享，[@jiacai2050](https://github.com/jiacai2050) 整理成文章，发在我们的网站。与全世界的 SICPer 分享、交流。
-
-### 惩罚措施
-
-**红包**
-
-- 分享的主讲人如果准备不足，无法分享，同时组内有人自告奋勇站出来做分享，说明主讲人延期。红包：*50*元
-- 半途退出。红包：*500*元。
-
-### 肺腑之言
-
-1. 我们是兴趣小组，如果参加让你觉得很累，并且一点没有快感，那为什么还要占坑呢？计算机经典书籍[浩如烟海](http://www.douban.com/tag/%E7%BC%96%E7%A8%8B/book)，找一本让你`欲罢不能`的吧。
-2. 讨论时多去“喷”，但喷之前需要多去思考，给出喷的具体理由以及改进措施
-3. 如果 SICP 让你痛并快乐着，快加入我们吧 😊
-
-
-### 重大事件
-
-1. 2015/12/18。本网站上线
-
+后面会持续更新，感兴趣的朋友可以加 QQ 群：119845407，交流与 Lisp 相关的问题。
